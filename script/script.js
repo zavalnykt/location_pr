@@ -1,3 +1,7 @@
+const ourCoords = {
+    latitude: 48.943207,
+    longitude: 24.732017
+};
 document.addEventListener("DOMContentLoaded", getMyLocation)
 
 function getMyLocation() {
